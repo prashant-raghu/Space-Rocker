@@ -11,3 +11,20 @@ PreloadJS is a library to make working with asset preloading easier. It provides
 EaselJS is a library for building high-performance interactive 2D content in HTML5. It provides a feature-rich display list to allow you to manipulate and animate graphics. It also provides a robust interactive model for mouse and touch interactions.
 It is excellent for building games, generative art, ads, data visualization, and other highly graphical experiences. It works well alone, or with the rest of the CreateJS suite: SoundJS, PreloadJS, and TweenJS.
 It has no external dependencies, and should be compatible with virtually any framework you enjoy using.
+---
+name: Feature request
+about: Suggest an idea for this project
+
+---
+
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
+
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
+
+**Additional context**
+Add any other context or screenshots about the feature request here.
